@@ -1,0 +1,6 @@
+compatibility-level: 2
+workspace: ./workspace
+backlog: 01a06faf-0694-7566-820f-77984120028c
+kb: ./kb
+bridge: 01a06faf-06c1-7aba-ad63-0b4780f39b10
+work-branch-prefix: work/
