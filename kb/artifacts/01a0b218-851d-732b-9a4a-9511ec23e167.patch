@@ -1,0 +1,20 @@
+From 9dc82987bf8f3425412a9a38aedf89039363789b Mon Sep 17 00:00:00 2001
+From: Implementation Agent <agent@nosedive.invalid>
+Date: Thu, 17 Sep 2026 21:19:06 -0400
+Subject: [PATCH] add a hello note
+
+Nosedive-Dive: 01a0b218-720e-77ac-a6fe-314dc8dae501
+Nosedive-Feat: 01a0b218-6a04-7f3e-8d4e-e133edabfaf7
+Co-Authored-By: nosedive 2026.9.5-1788580525144 <noreply@nosedive.dev>
+---
+ hello.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello.md
+
+diff --git a/hello.md b/hello.md
+new file mode 100644
+index 0000000..491c43b
+--- /dev/null
++++ b/hello.md
+@@ -0,0 +1 @@
++Hello from the onboarding gate.
